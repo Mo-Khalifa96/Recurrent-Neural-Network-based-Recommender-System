@@ -53,7 +53,6 @@
 **To quickly access the project, I provided two links, both of which will direct you to a Jupyter Notebook with all the code and corresponding output, rendered, organized into sections and sub-sections, and supplied with thorough explanations and insights that gradually guide the unfolding of the project from one step to the next. The first link allows you to view the project only, whereas the second link allows you to view the project as well as interact with it directly and reproduce the results if you prefer so. To execute the code, please make sure to run the first two cells first in order to install and import the Python packages necessary for the task. To run any given block of code, simply select the cell and click on the 'Run' icon on the notebook toolbar.**
 <br>
 <br>
-<br>
 
 ***To view the project only, click on the following link:*** <br>
 https://nbviewer.org/github/Mo-Khalifa96/Recurrent-Neural-Network-based-Recommender-System/blob/main/Recurrent%20Neural%20Network-Based%20Recommender%20System.ipynb
