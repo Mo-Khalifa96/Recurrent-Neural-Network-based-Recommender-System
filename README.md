@@ -56,11 +56,11 @@
 <br>
 
 ***To view the project only, click on the following link:*** <br>
-https://nbviewer.org/github/Mo-Khalifa96/Recurrent-Neural-Network-based-Recommender-System/blob/main/...
+https://nbviewer.org/github/Mo-Khalifa96/Recurrent-Neural-Network-based-Recommender-System/blob/main/Recurrent%20Neural%20Network-Based%20Recommender%20System.ipynb
 <br>
 <br>
 ***Alternatively, to view the project and interact with its code, click on the following link:*** <br>
-https://mybinder.org/v2/gh/Mo-Khalifa96/Recurrent-Neural-Network-based-Recommender-System/main?labpath=...
+https://mybinder.org/v2/gh/Mo-Khalifa96/Recurrent-Neural-Network-based-Recommender-System/main?urlpath=%2Fdoc%2Ftree%2FRecurrent+Neural+Network-Based+Recommender+System.ipynb
 <br>
 <br>
 
