@@ -8,7 +8,7 @@
 
 <br>
 
-**Overall, the project is broken down into 7 sections: <br>
+**Overall, the project is broken down into 8 sections: <br>
 &emsp; 1) Reading and Inspecting the Data <br>
 &emsp; 2) Cleaning and Updating the Data <br> 
 &emsp; 3) Exploratory Data Analysis <br>
@@ -20,7 +20,6 @@
 
 <br>
 <br>
-
 
 ## About The Data  
 **The dataset presented here was taken from Kaggle, which you can access easily by clicking [here](https://www.kaggle.com/datasets/dk123891/books-dataset-goodreadsmay-2024). This dataset consists of thousands of books collected from Goodreads, a popular platform for discovering, reviewing, and discussing books. Indeed, it provides a comprehensive book collection of more than 16,000 books in total, covering a myriad of different authors, genres, and literary eras, ancient and modern. It covers all the major literary works from the ancient times and up to May 2024. Each book featured, represented by a data row, covers important details and descriptions about it, including the book title, author, genre classification, publication date, format, and its average rating score. As such, the data here can support a variety of purposes, from data analysis to studying user-preferences and performing sentiment analysis to building recommendation systems, as with the current case. This dataset has been licensed by MIT for free use for commercial and non-commercial purposes.** <br> 
